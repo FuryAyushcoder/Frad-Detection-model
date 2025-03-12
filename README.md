@@ -1,4 +1,4 @@
-# Frad-Detection-model
+# Fraud-Detection-model
 
 A fraud detection model is designed to identify and prevent fraudulent activities by analyzing data patterns and flagging anomalies. It’s widely used in industries like finance, e-commerce, insurance, and telecommunications.
 
